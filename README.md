@@ -20,12 +20,10 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 
 Los requisitos mínimos que debe tener la aplicación son los siguientes:
 
-* La base de datos debe tener un mínimo de 2 tablas y un máximo de 6, cada una con su clave primaria.
+* La base de datos debe tener un mínimo de 2 tablas, cada una con su clave primaria.
 * La base de datos no se puede entregar vacía, deberá contener información para poder probar la aplicación: listados, borrado de elementos, etc.
 * La aplicación debe estar bien probada y revisada, no debe haber enlaces rotos, opciones que no funcionen, imágenes rotas, etc. Se recomienda probar la aplicación en varios ordenadores diferentes.
-* Se debe incluir como mínimo un ArrayList.
-* Se debe incluir como mínimo un HashMap.
-* Las distintas páginas de la aplicación deben tener un aspecto uniforme.
+* La aplicación debe estar subida a GitHub y documentada como se indica más adelante.
     
 ## Características opcionales
 
