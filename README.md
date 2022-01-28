@@ -59,8 +59,6 @@ Video en el que se explique el funcionamiento de la aplicación así como la est
 
 Se debe ir actualizando el repositorio con frecuencia, no hay que esperar a que la aplicación esté totalmente terminada.
 
-**La exposición del CRUD se realizará de forma presencial en el aula de 1º DAM el miércoles 26 de mayo en el horario de la asignatura de Programación.**
-
 # Otras consideraciones
 
 Se puede utilizar Materialize, Bootstrap, Foundation o cualquier otro framework CSS o bien hojas de estilo propias. En cualquier caso, las distintas páginas de la aplicación deben tener un aspecto uniforme.
