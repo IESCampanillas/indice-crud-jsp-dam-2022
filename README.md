@@ -18,7 +18,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
       
 ## Requisitos mínimos
 
-Los requisitos mínimos que debe tener la aplicación son los siguientes:
+Los requisitos mínimos que debe tener la aplicación (para obtener un 5) son los siguientes:
 
 * La base de datos debe tener un mínimo de 2 tablas, cada una con su clave primaria.
 * La base de datos no se puede entregar vacía, deberá contener información para poder probar la aplicación: listados, borrado de elementos, etc.
@@ -29,8 +29,11 @@ Los requisitos mínimos que debe tener la aplicación son los siguientes:
 
 Las características opcionales son las siguientes:
 
-* Restricción de ciertas páginas y/o funcionalidades de la aplicación según el rol: usuario sin loguear, usuario logueado o administrador. Esto dependerá mucho de la aplicación, por ejemplo, puede haber una landing page accesible a todos los usuarios, una parte donde se puedan realizar distintas operaciones como usuario logueado y otra parte (o algunas funcionalidades) solo accesible al administrador/es.
-* Utilización de algún framework CSS como Bootstrap, Foundation, Materialize, etc.
+* Aplicar restricciones o privilegios a ciertas páginas y/o funcionalidades de la aplicación según el rol: usuario sin loguear, usuario logueado o administrador. Esto dependerá mucho de la aplicación, por ejemplo, puede haber una landing page accesible a todos los usuarios, una parte donde se puedan realizar distintas operaciones como usuario logueado y otra parte (o algunas funcionalidades) solo accesible al administrador/es.
+* Uso de más de dos tablas.
+* Búsqueda/s.
+* Diferentes tipos de listado (por categorías, ordenados, etc).
+* Vídeo descriptivo en Youtube en caso de existir.
 
 ## :octocat:	Repositorio de GitHub
 
