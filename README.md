@@ -59,7 +59,7 @@ Video en el que se explique el funcionamiento de la aplicación así como la est
 
 Se debe ir actualizando el repositorio con frecuencia, no hay que esperar a que la aplicación esté totalmente terminada.
 
-# Otras consideraciones
+## Otras consideraciones
 
 Se puede utilizar Materialize, Bootstrap, Foundation o cualquier otro framework CSS o bien hojas de estilo propias. En cualquier caso, las distintas páginas de la aplicación deben tener un aspecto uniforme.
 
