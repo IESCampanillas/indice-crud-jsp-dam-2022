@@ -52,11 +52,10 @@ Video en el que se explique el funcionamiento de la aplicación así como la est
 
 ## Seguimiento, plazos de entrega y presentación
 
-A los alumnos no duales se les hará un seguimiento diario en clase para ver el progreso la aplicación.
-
-Los alumnos duales que quieran presentar el CRUD para subir nota en la tercera evaluación, deben avisar previamente e informar al profesor al menos una vez a la semana por slack sobre los progresos que van realizando.
-
-Los alumnos no duales que falten a clase, deben igualmente rendir cuentas como mínimo una vez a la semana, informando por slack sobre los avances realizados.
+* 📆 **Jueves 3 de enero**: Debe estar creado el repositorio del CRUD en GitHub, con el título y una breve descripción y debe estar correctamente enlazado desde el índice.
+* 📆 **Jueves 3 de febrero**: Primer checkout. Tiene que estar creado el proyecto y se tiene que ver algo hecho. Debe haber una o varias capturas en el`README.md`.
+* 📆 **Miércoles 23 febrero (a las 23:59)**: No se permitirán commits a partir de ese momento. Se recomienda tener el trabajo terminado con antelación y dejar los últimos días para probarlo bien y darle los últimos retoques.
+* 📆 **Jueves 24 de febrero**: Presentación del CRUD por orden de lista (aproximandamente 10 minutos por alumno/a).
 
 Se debe ir actualizando el repositorio con frecuencia, no hay que esperar a que la aplicación esté totalmente terminada.
 
