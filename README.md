@@ -33,9 +33,9 @@ Las características opcionales son las siguientes:
 * Uso de más de dos tablas.
 * Búsqueda/s.
 * Diferentes tipos de listado (por categorías, ordenados, etc).
-* Vídeo descriptivo en Youtube en caso de existir.
+* Vídeo descriptivo en Youtube.
 
-## :octocat:	Repositorio de GitHub
+## :octocat:	Repositorio de GitHub (obligatorio)
 
 La aplicación debe estar subida a GitHub y el repositorio correspondiente debe estar enlazado en este mismo fichero, en el apartado **Índice a los repositorios de las aplicaciones**
 
@@ -43,12 +43,12 @@ El repositorio debe contener lo siguiente:
 * Título y descripción de la aplicación.
 * Código fuente completo.
 * Archivo en formato SQL de respaldo de la base de datos.
-* Capturas de pantalla comentadas de TODAS las páginas de la aplicación.
-* Enlace al video descriptivo en Youtube.
+* Capturas de pantalla comentadas de **TODAS** las páginas de la aplicación.
+* Enlace al video descriptivo en Youtube en caso de existir.
 
-## :tv: Video descriptivo en Youtube
+## :tv: Video descriptivo en Youtube (opcional)
 
-Se debe grabar un video en el que se explique el funcionamiento de la aplicación así como la estructura de archivos y lo más relevante del código. No se debe explicar el código línea a línea, solo lo más importante. El video estará subido a Youtube y deberá estar enlazado desde el repositorio. No se admiten videos enlazados a Drive, a Vimeo o a otras plataformas. La duración mínima es de 4 minutos y la máxima de 10 minutos.
+Video en el que se explique el funcionamiento de la aplicación así como la estructura de archivos y lo más relevante del código. **No se debe explicar el código línea a línea**, solo lo más importante. El video estará subido a Youtube y deberá estar enlazado desde el repositorio. No se admiten videos enlazados a Drive, a Vimeo o a otras plataformas. La duración mínima es de 4 minutos y la máxima de 10 minutos.
 
 ## Seguimiento, plazos de entrega y presentación
 
@@ -61,5 +61,11 @@ Los alumnos no duales que falten a clase, deben igualmente rendir cuentas como m
 Se debe ir actualizando el repositorio con frecuencia, no hay que esperar a que la aplicación esté totalmente terminada.
 
 **La exposición del CRUD se realizará de forma presencial en el aula de 1º DAM el miércoles 26 de mayo en el horario de la asignatura de Programación.**
+
+# Otras consideraciones
+
+Se puede utilizar Materialize, Bootstrap, Foundation o cualquier otro framework CSS o bien hojas de estilo propias. En cualquier caso, las distintas páginas de la aplicación deben tener un aspecto uniforme.
+
+**Este ejercicio es obligatorio** para aprobar el segundo trimestre y se calificará con una nota numérica de 0 a 10.
 
 Si te ha gustado este repo, dale una :star: ¡Gracias!
