@@ -4,24 +4,17 @@
  <img width="93px" src="css.svg">
 
 
-Con el fin de superar la parte del temario correspondiente a JSP y el acceso a bases de datos desde Java, el alumno deberá realizar como ejercicio una aplicación tipo CRUD – alta, listado, modificación y borrado – sobre la información almacenada en una base de datos MySQL.
+Con el fin de superar la parte del temario correspondiente a **JSP y el acceso a bases de datos desde Java**, el alumno deberá realizar como ejercicio una aplicación tipo **CRUD** – alta, listado, modificación y borrado – sobre la información almacenada en una base de datos **MySQL**.
 
-Se deja a criterio del alumno la elección de la base de datos. Puede ser una base de datos con información sobre productos, vehículos, empleados, alumnos, profesores, libros, mascotas o cualquier otra información. Dos alumnos no pueden hacer el CRUD exactamente sobre la misma temática. Si dos temáticas coinciden, se descarta la que corresponda a un commit posterior en el índice de repositorios.
+Se deja a criterio del alumno la elección de la base de datos. Puede ser una base de datos con información sobre productos, vehículos, empleados, alumnos, profesores, libros, mascotas o cualquier otra información. **Dos alumnos no pueden hacer el CRUD exactamente sobre la misma temática**. Si dos temáticas coinciden, se descarta la que corresponda a un commit posterior en el índice de repositorios.
 
 Este ejercicio es obligatorio para aprobar el tercer trimestre para los alumnos no duales y se calificará con una nota numérica de 0 a 10. Para los alumnos duales es opcional.
 
 ## Índice a los repositorios de las aplicaciones
 
-Cada alumno debe editar este `README.md` y añadir sus apellidos, su nombre, el título del CRUD y un enlace al repositorio de la aplicación.
+Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
 
-* Lopez Lozano, Santos - [ArkFate/Data Base](https://github.com/SantosLopezLozano/ArkFate-Data_Base.git)
-* López Pérez, Cruz - [Gestión de clínica](https://github.com/mcruzlp/CRUD_ClinicaNilo.git)
-* Egea Hermoso, Adrián - [Mi Filmoteca](https://github.com/AdrianEgeaHermoso/Mi-Filmoteca)
-* Millón Cortés, Manuel Alejandro - [Gestión Apartamentos](https://github.com/ManuelMillon/crudProgramacion.git)
-* Morales Aragón, Marcos - [U-Fit](https://github.com/MarcosMoralesAragon/U-Fit)
-* Moreno Rodríguez, Javier - [ArkData](https://github.com/Javiemr/FinalCrudProg)
-* Fabián El Belaizi, Daniel - [Tienda Informática](https://github.com/Danny-06/Tienda-Informatica)
-* Sicilia Pérez, Francisco Javier - [Listado superheoes](https://github.com/FranSiciliaPerez/CRUD-Progra-FranciscoJavierSP)
+* Apellidos, Nombre - [Título del CRUD]()
       
 ## Requisitos mínimos
 
