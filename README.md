@@ -15,7 +15,7 @@ Este ejercicio es obligatorio para aprobar el tercer trimestre para los alumnos 
 Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
 
 * Apellidos, Nombre - [Título del CRUD]()
-* Sici`lia Pérez, Francisco Javier -
+* Sicilia Pérez, Francisco Javier -
       
 ## Requisitos mínimos
 
