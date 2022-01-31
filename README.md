@@ -55,7 +55,7 @@ Video en el que se explique el funcionamiento de la aplicación así como la est
 ## Seguimiento, plazos de entrega y presentación
 
 * 📆 **Jueves 3 de enero**: Debe estar creado el repositorio del CRUD en GitHub, con el título y una breve descripción y debe estar correctamente enlazado desde el índice.
-* 📆 **Jueves 3 de febrero**: Primer checkout. Tiene que estar creado el proyecto y se tiene que ver algo hecho. Debe haber una o varias capturas en el`README.md`.
+* 📆 **Jueves 10 de febrero**: Primer checkout. Tiene que estar creado el proyecto y se tiene que ver algo hecho. Debe haber una o varias capturas en el`README.md`.
 * 📆 **Miércoles 23 febrero (a las 23:59)**: No se permitirán commits a partir de ese momento. Se recomienda tener el trabajo terminado con antelación y dejar los últimos días para probarlo bien y darle los últimos retoques.
 * 📆 **Jueves 24 de febrero**: Presentación del CRUD por orden de lista (aproximandamente 10 minutos por alumno/a).
 
