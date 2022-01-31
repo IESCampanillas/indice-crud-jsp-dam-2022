@@ -17,6 +17,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Apellidos, Nombre - [Título del CRUD]()
 * Sicilia Pérez, Francisco Javier -
 * Moreno González, Alberto - Diario del Cazador Hollow Knight
+* Cueto Jiménez, Alejandro - Gestión de peceras y peces
       
 ## Requisitos mínimos
 
