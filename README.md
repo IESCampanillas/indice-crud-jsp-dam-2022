@@ -21,6 +21,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Moreno González, Alberto - Diario del Cazador Hollow Knight
 * Cueto Jiménez, Alejandro - Gestión de peceras y peces
 * Parra Toval, Alberto - Plantilla del Real Betis Balompie
+* Benitez Ruiz, Jose Antonio - MySerieList
       
 ## Requisitos mínimos
 
