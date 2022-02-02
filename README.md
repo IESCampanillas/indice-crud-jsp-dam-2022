@@ -20,7 +20,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Sicilia Pérez, Francisco Javier -
 * Moreno González, Alberto - Diario del Cazador Hollow Knight
 * Cueto Jiménez, Alejandro - Gestión de peceras y peces
-* Parra Toval, Alberto - Plantilla del Real Betis Balompie
+* Parra Toval, Alberto - Plantilla de Equipo de Fútbol
 * Benitez Ruiz, Jose Antonio - MySerieList
       
 ## Requisitos mínimos
