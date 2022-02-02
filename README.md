@@ -22,7 +22,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Cueto Jiménez, Alejandro - Gestión de peceras y peces
 * Parra Toval, Alberto - Plantilla de Equipo de Fútbol
 * Benitez Ruiz, Jose Antonio - MySerieList
-* Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/ejercicioCrudMijardin)
+* Castillo Muñoz, Natalia - [MiJardin](https://mnataliacm.github.io/EjercicioCrudMijardin/)
       
 ## Requisitos mínimos
 
