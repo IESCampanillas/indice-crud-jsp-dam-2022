@@ -23,7 +23,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Parra Toval, Alberto - Plantilla de Equipo de Fútbol
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://mnataliacm.github.io/EjercicioCrudMijardin/)
-* Morales García, Sergio - Pokémon
+* Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
       
 ## Requisitos mínimos
 
