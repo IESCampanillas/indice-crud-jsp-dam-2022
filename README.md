@@ -15,7 +15,7 @@ Este ejercicio es obligatorio para aprobar el tercer trimestre para los alumnos 
 Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
 
 * Apellidos, Nombre - [Título del CRUD]()
-* Aguilera Martín, Diego - El Señor de los Anillos
+* Aguilera Martín, Diego - [CRUD LoL](https://github.com/DiegoAguileraMartin/lolcrud)
 * Antúnez Pérez, David -[The SCP Foundation](https://github.com/DavidAntunezPerez/TheSCPFoundation-CRUD)
 * Sicilia Pérez, Francisco Javier -[CrudProgra](https://github.com/FranSiciliaPerez/CrudProgram)
 * Moreno González, Alberto - [Diario del Cazador Hollow Knight](https://github.com/albertomorenogonzalez/diario-del-cazador-HK)
@@ -23,7 +23,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Parra Toval, Alberto - Plantilla de Equipo de Fútbol
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://mnataliacm.github.io/EjercicioCrudMijardin/)
-* Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
+* Morales García, Sergio - Pokémon
       
 ## Requisitos mínimos
 
