@@ -22,7 +22,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Linero Fernández, Álvaro - [Backdoors](https://github.com/Alvaroskill/Backdoors-Crud)
 * Moreno González, Alberto - [Diario del Cazador Hollow Knight](https://github.com/albertomorenogonzalez/diario-del-cazador-HK)
 * Cueto Jiménez, Alejandro - [Gestión de peceras y peces](https://github.com/AleCueto/CreacionPecesYPeceras)
-* Parra Toval, Alberto - Diseño Equipo de Fútbol(https://github.com/AlbertoParraToval/CRUD-plantilla-futbol)
+* Parra Toval, Alberto - [Diseño Equipo de Fútbol](https://github.com/AlbertoParraToval/CRUD-plantilla-futbol)
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/EjercicioCrudMiJardin)
 * Morales García, Sergio - Pokémon
