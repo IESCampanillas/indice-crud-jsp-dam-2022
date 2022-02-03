@@ -22,7 +22,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Cueto Jiménez, Alejandro - [Gestión de peceras y peces](https://github.com/AleCueto/CreacionPecesYPeceras)
 * Parra Toval, Alberto - Plantilla de Equipo de Fútbol
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
-* Castillo Muñoz, Natalia - [MiJardin](https://mnataliacm.github.io/EjercicioCrudMijardin/)
+* Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/EjercicioCrudMiJardin.git)
 * Morales García, Sergio - Pokémon
       
 ## Requisitos mínimos
