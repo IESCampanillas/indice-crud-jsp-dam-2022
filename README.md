@@ -25,6 +25,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/EjercicioCrudMiJardin)
 * Morales García, Sergio - Pokémon
+* Diego Rodríguez Barcos - [Academia Clases Particulares](https://github.com/diegorodrii/CRUD-Academia)
       
 ## Requisitos mínimos
 
