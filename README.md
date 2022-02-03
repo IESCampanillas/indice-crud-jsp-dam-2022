@@ -18,10 +18,10 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Aguilera Martín, Diego - El Señor de los Anillos
 * Antúnez Pérez, David -[The SCP Foundation]()
 * Sicilia Pérez, Francisco Javier -
-* Moreno González, Alberto - Diario del Cazador Hollow Knight
+* Moreno González, Alberto - [Diario del Cazador Hollow Knight](https://github.com/albertomorenogonzalez/diario-del-cazador-HK)
 * Cueto Jiménez, Alejandro - Gestión de peceras y peces
-* Parra Toval, Alberto - [Equipo de Fútbol](https://github.com/AlbertoParraToval/CRUD-plantilla-futbol)
-* Benitez Ruiz, Jose Antonio - MySerieList
+* Parra Toval, Alberto - Plantilla de Equipo de Fútbol
+* Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://mnataliacm.github.io/EjercicioCrudMijardin/)
 * Morales García, Sergio - Pokémon
       
