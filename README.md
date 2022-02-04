@@ -27,6 +27,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/EjercicioCrudMiJardin)
 * Morales García, Sergio - Pokémon
 * Diego Rodríguez Barcos - [Academia Clases Particulares](https://github.com/diegorodrii/CRUD-Academia)
+* González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
       
 ## Requisitos mínimos
 
