@@ -25,7 +25,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Parra Toval, Alberto - [Diseño Equipo de Fútbol](https://github.com/AlbertoParraToval/CRUD-plantilla-futbol)
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/EjercicioCrudMiJardin)
-* Morales García, Sergio - Pokémon
+* Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
 * Diego Rodríguez Barcos - [Academia Clases Particulares](https://github.com/diegorodrii/CRUD-Academia)
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
       
