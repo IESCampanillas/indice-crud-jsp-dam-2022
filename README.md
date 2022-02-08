@@ -28,7 +28,8 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
 * Diego Rodríguez Barcos - [Academia Clases Particulares](https://github.com/diegorodrii/CRUD-Academia)
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
-      
+* Dominguez Gómez, Sergio - [Bolsos de Crochet ]()
+
 ## Requisitos mínimos
 
 Los requisitos mínimos que debe tener la aplicación (para obtener un 5) son los siguientes:
