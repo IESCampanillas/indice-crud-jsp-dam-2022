@@ -29,6 +29,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Diego Rodríguez Barcos - [Academia Clases Particulares](https://github.com/diegorodrii/CRUD-Academia)
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
 * Dominguez Gómez, Sergio - [Bolsos de Crochet ]()
+* Servia Morales, David - [Trading BD]()
 
 ## Requisitos mínimos
 
