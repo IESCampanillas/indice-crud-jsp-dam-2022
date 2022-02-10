@@ -30,6 +30,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
 * Dominguez Gómez, Sergio - [Bolsos de Crochet ](https://github.com/SergioDominguez15/CRUD.git)
 * Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading)
+* Joseph Luca San Juan thompson - []()
 
 ## Requisitos mínimos
 
