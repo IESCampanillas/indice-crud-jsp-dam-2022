@@ -26,7 +26,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Benitez Ruiz, Jose Antonio - [MySerieList](https://github.com/JoseAntonioBenitez/MySerieList)
 * Castillo Muñoz, Natalia - [MiJardin](https://github.com/mnataliacm/EjercicioCrudMiJardin)
 * Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
-* Diego Rodríguez Barcos - [Academia Clases Particulares](https://github.com/diegorodrii/CRUD-Academia)
+* Diego Rodríguez Barcos - [Liga Baloncesto](https://github.com/diegorodrii/CRUD-LigaBaloncesto)
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
 * Dominguez Gómez, Sergio - [Autoescuela ](https://github.com/SergioDominguez15/CRUD.git)
 * Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading)
