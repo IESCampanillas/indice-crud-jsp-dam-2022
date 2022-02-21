@@ -19,7 +19,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Antúnez Pérez, David -[The SCP Foundation](https://github.com/DavidAntunezPerez/TheSCPFoundation-CRUD)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome)
 * Sicilia Pérez, Francisco Javier -[CrudProgra](https://github.com/FranSiciliaPerez/CrudProgram)
-* Linero Fernández, Álvaro - [Omnitrix](https://github.com/Alvaroskill/Omnitrix-crud)
+* Linero Fernández, Álvaro - [Teclazon](https://github.com/Alvaroskill/Teclados-CRUD)
 * Moreno González, Alberto - [Diario del Cazador Hollow Knight](https://github.com/albertomorenogonzalez/diario-del-cazador-HK)
 * Cueto Jiménez, Alejandro - [Gestión de peceras y peces](https://github.com/AleCueto/CreacionPecesYPeceras)
 * Parra Toval, Alberto - [Mi Gimnasio](https://github.com/AlbertoParraToval/GYM-CRUD)
