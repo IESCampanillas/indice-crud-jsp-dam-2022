@@ -31,6 +31,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Dominguez Gómez, Sergio - [Autoescuela ](https://github.com/SergioDominguez15/CRUD.git)
 * Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading_Final)
 * Joseph Luca San Juan thompson - []()
+* Daniel García Campoy - [CRUD Discográfica](https://github.com/DanielGarciaCampoy/CrudJSP_Discografica)
 
 ## Requisitos mínimos
 
