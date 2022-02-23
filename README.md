@@ -30,7 +30,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
 * Dominguez Gómez, Sergio - [Autoescuela ](https://github.com/SergioDominguez15/CRUD.git)
 * Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading_Final)
-* Joseph Luca San Juan thompson - []()
+* Joseph Luca San Juan thompson - [Combate Prehistórico](https://github.com/JosephLucaSanJuan/CRUD_PROGRAMACION/tree/main/Trabajo_bootstrap_2)
 * Daniel García Campoy - [CRUD Discográfica](https://github.com/DanielGarciaCampoy/CrudJSP_Discografica)
 
 ## Requisitos mínimos
