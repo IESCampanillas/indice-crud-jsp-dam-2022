@@ -29,7 +29,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Diego Rodríguez Barcos - [Liga Counter Strike](https://github.com/diegorodrii/CRUD-LigaCounterStrike)
 * González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
 * Dominguez Gómez, Sergio - [Autoescuela ](https://github.com/SergioDominguez15/CRUD.git)
-* Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading)
+* Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading_Final)
 * Joseph Luca San Juan thompson - []()
 
 ## Requisitos mínimos
