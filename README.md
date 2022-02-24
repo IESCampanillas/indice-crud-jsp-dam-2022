@@ -27,11 +27,9 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
 * Moreno González, Alberto - [Diario del Cazador Hollow Knight](https://github.com/albertomorenogonzalez/diario-del-cazador-HK)
 * Parra Toval, Alberto - [Mi Gimnasio](https://github.com/AlbertoParraToval/GYM-CRUD)
-
 * Rodríguez Barcos Diego - [Liga Counter Strike](https://github.com/diegorodrii/CRUD-LigaCounterStrike)
-
-* Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading_Final)
 * Joseph Luca San Juan thompson - [Combate Prehistórico](https://github.com/JosephLucaSanJuan/CRUD_PROGRAMACION)
+* Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading_Final)
 * Sicilia Pérez, Francisco Javier -[Lista Proveedores Agua](https://github.com/FranSiciliaPerez/CrudProgram)
 
 ## Requisitos mínimos
