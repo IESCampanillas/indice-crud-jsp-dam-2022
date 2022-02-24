@@ -22,12 +22,14 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Dominguez Gómez, Sergio - [Autoescuela ](https://github.com/SergioDominguez15/CRUD.git)
 * Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome)
 * García Campoy, Daniel - [CRUD Discográfica](https://github.com/DanielGarciaCampoy/CrudJSP_Discografica)
+* González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
 * Linero Fernández, Álvaro - [Fútbol](https://github.com/Alvaroskill/FutbolCrud)
+* Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
 * Moreno González, Alberto - [Diario del Cazador Hollow Knight](https://github.com/albertomorenogonzalez/diario-del-cazador-HK)
 * Parra Toval, Alberto - [Mi Gimnasio](https://github.com/AlbertoParraToval/GYM-CRUD)
-* Morales García, Sergio - [Pokémon](https://github.com/sergiomoralesgarcia/Crud-Pokemon)
+
 * Rodríguez Barcos Diego - [Liga Counter Strike](https://github.com/diegorodrii/CRUD-LigaCounterStrike)
-* González Pons, Verónica - [Destino de viajes](https://github.com/Veronicagnzpns/destinos.git)
+
 * Servia Morales, David - [Trading BD](https://github.com/davidservia/Crud_Trading_Final)
 * Joseph Luca San Juan thompson - [Combate Prehistórico](https://github.com/JosephLucaSanJuan/CRUD_PROGRAMACION)
 * Sicilia Pérez, Francisco Javier -[Lista Proveedores Agua](https://github.com/FranSiciliaPerez/CrudProgram)
