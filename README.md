@@ -94,4 +94,10 @@ Para el CRUD mejorado, los requisitos mínimos que debe tener la aplicación son
 * Acceso a la cuenta (logueo).
 * Vídeo descriptivo en Youtube (antes era opcional y ahora es obligatorio).
 
+## Índice a los repositorios de las aplicaciones
+
+Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
+
+* Apellidos, Nombre - [Título](enlace)
+
 Si te ha gustado este repo, dale una :star: ¡Gracias!
