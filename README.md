@@ -81,4 +81,17 @@ Se puede utilizar Materialize, Bootstrap, Foundation o cualquier otro framework 
 
 **Este ejercicio es obligatorio** para aprobar el segundo trimestre y se calificará con una nota numérica de 0 a 10.
 
+# CRUD mejorado - 3<sup>er</sup> trimestre - alumnos no duales
+
+En el tercer trimestre, todos los alumnos no duales deben realizar obligatoriamente una versión mejorada del CRUD. Esta aplicación constituye el 50% de la nota del trimestre.
+
+## Requisitos mínimos
+
+Para el CRUD mejorado, los requisitos mínimos que debe tener la aplicación son los siguientes:
+
+* Todos los requisitos mínimos que tenía el CRUD del trimestre anterior (mirar arriba).
+* Uso de variables de sesión.
+* Acceso a la cuenta (logueo).
+* Vídeo descriptivo en Youtube (antes era opcional y ahora es obligatorio).
+
 Si te ha gustado este repo, dale una :star: ¡Gracias!
