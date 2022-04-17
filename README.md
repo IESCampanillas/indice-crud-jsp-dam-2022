@@ -85,6 +85,12 @@ Se puede utilizar Materialize, Bootstrap, Foundation o cualquier otro framework 
 
 En el tercer trimestre, todos los alumnos no duales deben realizar obligatoriamente una versión mejorada del CRUD. Esta aplicación constituye el 50% de la nota del trimestre.
 
+## Índice a los repositorios de las aplicaciones
+
+Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
+
+* Apellidos, Nombre - [Título](enlace)
+
 ## Requisitos mínimos
 
 Para el CRUD mejorado, los requisitos mínimos que debe tener la aplicación son los siguientes:
@@ -94,10 +100,10 @@ Para el CRUD mejorado, los requisitos mínimos que debe tener la aplicación son
 * Acceso a la cuenta (logueo).
 * Vídeo descriptivo en Youtube (antes era opcional y ahora es obligatorio).
 
-## Índice a los repositorios de las aplicaciones
+## Plazos de entrega y presentación (por confirmar)
 
-Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
+* 📆 **lunes 16 de mayo (a las 23:59)**: No se permitirán commits a partir de ese momento. Se recomienda tener el trabajo terminado con antelación y dejar los últimos días para probarlo bien y darle los últimos retoques.
+* 📆 **Martes 17 de mayo**: Presentación del CRUD mejorado por orden de lista (aproximandamente 15 minutos por alumno).
 
-* Apellidos, Nombre - [Título](enlace)
 
 Si te ha gustado este repo, dale una :star: ¡Gracias!
