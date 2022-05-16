@@ -94,6 +94,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Sicilia Pérez, Francisco Javier - [CRUD MARVEL](https://github.com/FranSiciliaPerez/CRUD-Progra-FranciscoJavierSP)
 * Linero Fernández, Álvaro - [Fútbol](https://github.com/Alvaroskill/CrudII)
 * García Campoy, Daniel - [CRUD Discográfica](https://github.com/DanielGarciaCampoy/CRUD_DiscograficaMejorado_3erTrim)
+* San Juan Thompson, Joseph Luca - [Mortal Kombat Prehistórico](https://github.com/JosephLucaSanJuan/CRUD_de_Programacion_mejorado)
 
 ## Requisitos mínimos
 
