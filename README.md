@@ -93,6 +93,7 @@ Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (po
 * Servia Morales, David - [CRUD Trading](https://github.com/davidservia/Crud_Trading_Final)
 * Sicilia Pérez, Francisco Javier - [CRUD MARVEL](https://github.com/FranSiciliaPerez/CRUD-Progra-FranciscoJavierSP)
 * Linero Fernández, Álvaro - [Fútbol](https://github.com/Alvaroskill/CrudII)
+* García Campoy, Daniel - [CRUD Discográfica](https://github.com/DanielGarciaCampoy/CRUD_DiscograficaMejorado_3erTrim)
 
 ## Requisitos mínimos
 
