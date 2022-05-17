@@ -90,6 +90,7 @@ En el tercer trimestre, todos los alumnos no duales deben realizar obligatoriame
 Cada alumno debe editar este `README.md` y añadir sus apellidos y su nombre (por orden alfabético), el título del CRUD y un enlace al repositorio de la aplicación.
 
 * Aguilera Martín, Diego - [CRUD LoL](https://github.com/DiegoAguileraMartin/lolcrud)
+* Egea Hermoso, Adrián - [FilmHome](https://github.com/AdrianEgeaHermoso/FilmHome)
 * Servia Morales, David - [CRUD Trading](https://github.com/davidservia/Crud_Trading_Final)
 * Sicilia Pérez, Francisco Javier - [CRUD MARVEL](https://github.com/FranSiciliaPerez/CRUD-Progra-FranciscoJavierSP)
 * Linero Fernández, Álvaro - [Fútbol](https://github.com/Alvaroskill/CrudII)
